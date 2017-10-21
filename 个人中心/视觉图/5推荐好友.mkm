@@ -1,0 +1,17 @@
+<MKM version="2.0" imageFileUrl="file:///C:/Users/%e7%8e%8b%e9%9b%85%e7%90%a6/Desktop/UI-mark/%e4%b8%aa%e4%ba%ba%e4%b8%ad%e5%bf%83/%e8%a7%86%e8%a7%89%e5%9b%be/5%e6%8e%a8%e8%8d%90%e5%a5%bd%e5%8f%8b.png">
+  <Marks>
+    <LengthMark direction="3" color="16711680" length="230" x="800" y="219"/>
+    <LengthMark direction="12" color="16711680" length="265" x="620" y="341"/>
+    <LengthMark direction="12" color="16711680" length="637" x="904" y="416"/>
+    <LengthMark direction="12" color="16711680" length="33" x="619" y="308"/>
+    <LengthMark direction="12" color="16711680" length="103" x="650" y="292"/>
+    <ColorMark defaultDirection="9" colorSystem="hex" direction="9" color="16711680" targetColor="16762742" offsetX="25" offsetY="10" x="747" y="379"/>
+    <LengthMark direction="12" color="16711680" length="206" x="649" y="392"/>
+    <LengthMark direction="3" color="16711680" length="44" x="687" y="372"/>
+    <LengthMark direction="12" color="16711680" length="51" x="682" y="345"/>
+    <LengthMark direction="3" color="16711680" length="194" x="1000" y="173"/>
+    <LengthMark direction="3" color="16711680" length="155" x="954" y="464"/>
+    <LengthMark direction="3" color="16711680" length="634" x="753" y="635"/>
+    <LengthMark direction="12" color="16711680" length="444" x="667" y="924"/>
+  </Marks>
+</MKM>
