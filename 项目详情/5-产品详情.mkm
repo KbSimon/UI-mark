@@ -2,5 +2,7 @@
   <Marks>
     <LengthMark direction="3" color="16711680" length="83" x="470" y="1333"/>
     <LengthMark direction="12" color="16711680" length="118" x="408" y="1631"/>
+    <LengthMark direction="3" color="16711680" length="178" x="794" y="178"/>
+    <LengthMark direction="3" color="16711680" length="125" x="947" y="355"/>
   </Marks>
 </MKM>

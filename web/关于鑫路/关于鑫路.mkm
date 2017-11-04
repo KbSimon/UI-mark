@@ -1,0 +1,23 @@
+<MKM version="2.0" imageFileUrl="file:///C:/Users/%e7%8e%8b%e9%9b%85%e7%90%a6/Desktop/UI-mark/web/%e5%85%b3%e4%ba%8e%e9%91%ab%e8%b7%af/%e5%85%b3%e4%ba%8e%e9%91%ab%e8%b7%af.png">
+  <Marks>
+    <LengthMark direction="3" color="16711680" length="569" x="190" y="522"/>
+    <LengthMark direction="12" color="16711680" length="692" x="26" y="742"/>
+    <LengthMark direction="3" color="16711680" length="106" x="715" y="523"/>
+    <LengthMark direction="3" color="16711680" length="50" x="99" y="1043"/>
+    <LengthMark direction="3" color="16711680" length="20" x="37" y="958"/>
+    <ColorMark defaultDirection="9" colorSystem="hex" direction="9" color="16711680" targetColor="16736791" offsetX="25" offsetY="10" x="383" y="617"/>
+    <LengthMark direction="12" color="16711680" length="39" x="355" y="637"/>
+    <LengthMark direction="12" color="16711680" length="39" x="46" y="810"/>
+    <LengthMark direction="12" color="16711680" length="418" x="322" y="1206"/>
+    <LengthMark direction="12" color="16711680" length="248" x="427" y="1304"/>
+    <LengthMark direction="3" color="16711680" length="89" x="420" y="1092"/>
+    <ColorMark defaultDirection="9" colorSystem="hex" direction="9" color="16711680" targetColor="15592941" offsetX="25" offsetY="10" x="270" y="1092"/>
+    <ColorMark defaultDirection="9" colorSystem="hex" direction="9" color="16711680" targetColor="16777215" offsetX="25" offsetY="10" x="373" y="2071"/>
+    <ColorMark defaultDirection="9" colorSystem="hex" direction="9" color="16711680" targetColor="16777215" offsetX="25" offsetY="10" x="319" y="1989"/>
+    <ColorMark defaultDirection="9" colorSystem="hex" direction="9" color="16711680" targetColor="41727" offsetX="25" offsetY="10" x="239" y="1940"/>
+    <LengthMark direction="12" color="16711680" length="325" x="39" y="2799"/>
+    <LengthMark direction="3" color="16711680" length="500" x="202" y="2644"/>
+    <LengthMark direction="12" color="16711680" length="29" x="213" y="2659"/>
+    <LengthMark direction="3" color="16711680" length="17" x="46" y="3061"/>
+  </Marks>
+</MKM>

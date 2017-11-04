@@ -1,0 +1,17 @@
+<MKM version="2.0" imageFileUrl="file:///C:/Users/%e7%8e%8b%e9%9b%85%e7%90%a6/Desktop/UI-mark/web/%e5%a5%bd%e5%8f%8b%e5%88%86%e4%ba%ab/%e5%a5%bd%e5%8f%8b%e5%88%86%e4%ba%abH5.png">
+  <Marks>
+    <LengthMark direction="3" color="16711680" length="701" x="124" y="450"/>
+    <ColorMark defaultDirection="9" colorSystem="hex" direction="5" color="16711680" targetColor="13754879" offsetX="25" offsetY="10" x="691" y="842"/>
+    <LengthMark direction="12" color="16711680" length="616" x="72" y="872"/>
+    <LengthMark direction="3" color="16711680" length="90" x="333" y="476"/>
+    <LengthMark direction="12" color="16711680" length="30" x="225" y="822"/>
+    <LengthMark direction="12" color="16711680" length="347" x="72" y="637"/>
+    <LengthMark direction="12" color="16711680" length="228" x="456" y="643"/>
+    <LengthMark direction="3" color="16711680" length="85" x="639" y="599"/>
+    <LengthMark direction="12" color="16711680" length="617" x="69" y="1030"/>
+    <LengthMark direction="12" color="16711680" length="102" x="153" y="1027"/>
+    <ColorMark defaultDirection="9" colorSystem="hex" direction="9" color="16711680" targetColor="16674935" offsetX="25" offsetY="10" x="529" y="1003"/>
+    <ColorMark defaultDirection="9" colorSystem="hex" direction="9" color="16711680" targetColor="16753411" offsetX="25" offsetY="10" x="219" y="1926"/>
+    <ColorMark defaultDirection="9" colorSystem="hex" direction="9" color="16711680" targetColor="12046847" offsetX="25" offsetY="10" x="46" y="2887"/>
+  </Marks>
+</MKM>
