@@ -13,5 +13,6 @@
     <ColorMark defaultDirection="9" colorSystem="hex" direction="9" color="16711680" targetColor="16674935" offsetX="25" offsetY="10" x="529" y="1003"/>
     <ColorMark defaultDirection="9" colorSystem="hex" direction="9" color="16711680" targetColor="16753411" offsetX="25" offsetY="10" x="219" y="1926"/>
     <ColorMark defaultDirection="9" colorSystem="hex" direction="9" color="16711680" targetColor="12046847" offsetX="25" offsetY="10" x="46" y="2887"/>
+    <ColorMark defaultDirection="9" colorSystem="hex" direction="9" color="16711680" targetColor="16707073" offsetX="25" offsetY="10" x="383" y="408"/>
   </Marks>
 </MKM>
