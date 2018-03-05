@@ -1,0 +1,13 @@
+<MKM version="2.0" imageFileUrl="file:///C:/Users/MECHREVO/Desktop/UI-mark/%e6%b4%bb%e5%8a%a8%e4%b8%93%e5%8c%ba/10%e6%b4%bb%e5%8a%a8%e4%b8%93%e5%8c%ba-2.png">
+  <Marks>
+    <LengthMark direction="3" color="16711680" length="329" x="976.5" y="500.5"/>
+    <LengthMark direction="3" color="16711680" length="91" x="891" y="501"/>
+    <LengthMark direction="3" color="16711680" length="41" x="919" y="608"/>
+    <ColorMark defaultDirection="9" colorSystem="hex" direction="9" color="16711680" targetColor="6710886" offsetX="25" offsetY="10" x="1020" y="922"/>
+    <LengthMark direction="12" color="16711680" length="220" x="440" y="754"/>
+    <LengthMark direction="3" color="16711680" length="181" x="561" y="648"/>
+    <LengthMark direction="3" color="16711680" length="1039" x="963" y="350"/>
+    <LengthMark direction="12" color="16711680" length="52" x="662" y="788"/>
+    <LengthMark direction="3" color="16711680" length="64" x="1119" y="1194"/>
+  </Marks>
+</MKM>
