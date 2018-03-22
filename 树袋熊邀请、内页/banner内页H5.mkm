@@ -1,0 +1,19 @@
+<MKM version="2.0" imageFileUrl="file:///C:/Users/MECHREVO/Desktop/UI-mark/%e6%a0%91%e8%a2%8b%e7%86%8a%e9%82%80%e8%af%b7%e3%80%81%e5%86%85%e9%a1%b5/banner%e5%86%85%e9%a1%b5H5.png">
+  <Marks>
+    <LengthMark direction="3" color="16711680" length="357" x="78" y="530"/>
+    <LengthMark direction="12" color="16711680" length="692" x="28" y="732"/>
+    <ColorMark defaultDirection="9" colorSystem="hex" direction="9" color="16711680" targetColor="16284020" offsetX="25" offsetY="10" x="33" y="496"/>
+    <LengthMark direction="3" color="16711680" length="40" x="297" y="1419"/>
+    <LengthMark direction="12" color="16711680" length="496" x="-165" y="1171"/>
+    <LengthMark direction="3" color="16711680" length="1007" x="143" y="1457"/>
+    <LengthMark direction="3" color="16711680" length="192" x="227" y="2463"/>
+    <LengthMark direction="12" color="16711680" length="264" x="244" y="597"/>
+    <LengthMark direction="3" color="16711680" length="56" x="451" y="569"/>
+    <LengthMark direction="3" color="16711680" length="40" x="325" y="529"/>
+    <LengthMark direction="3" color="16711680" length="39" x="316" y="623"/>
+    <LengthMark direction="12" color="16711680" length="26" x="28" y="1067"/>
+    <LengthMark direction="12" color="16711680" length="749" x="-1" y="974"/>
+    <LengthMark direction="12" color="16711680" length="688" x="31" y="934"/>
+    <LengthMark direction="3" color="16711680" length="49" x="251" y="1184"/>
+  </Marks>
+</MKM>
